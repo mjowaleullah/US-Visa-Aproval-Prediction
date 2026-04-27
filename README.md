@@ -4,6 +4,7 @@
 1. VSCode: https://code.visualstudio.com/download
 2. Anaconda: https://www.anaconda.com/download
 3. git: https://git-scm.com/install/
+4. MongoDB: https://www.mongodb.com/cloud/atlas/
 ----------------
 
 
